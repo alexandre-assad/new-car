@@ -36,7 +36,3 @@ The project uses linear regression, a statistical method that attempts to model 
 The regression model is trained on a subset of the data (the training set), and its performance is evaluated on a different subset (the test set). The performance is measured using three metrics: mean squared error (MSE), root mean squared error (RMSE), and mean absolute error (MAE).
 
 The project includes both univariate linear regression (which uses a single feature to predict the selling price) and multivariate linear regression (which uses multiple features).
-
-## More Pretty Than Full!
-
-This project is a great introduction to linear regression and data analysis with Python. It's more about understanding the concepts and getting a feel for the data than about building a complex, full-featured application. So dive in, explore the data, and have fun learning about linear regression!
